@@ -1,0 +1,7 @@
+# Berkas hasil build dan runtime
+dist/
+data.json
+data.json.tmp
+daftar-buku.txt
+_seri.md
+node_modules/
